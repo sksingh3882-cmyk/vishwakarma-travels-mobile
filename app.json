@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Vishwakarma Travels",
+    "slug": "vishwakarma-travels-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "vishwakarmatravels",
+    "android": {
+      "package": "com.vishwakarmatravels.mobile",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#0B3D91"
+      }
+    },
+    "extra": {
+      "brand": "Vishwakarma Travels"
+    }
+  }
+}
